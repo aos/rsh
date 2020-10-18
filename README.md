@@ -1,0 +1,3 @@
+## rsh
+
+Simple Rust shell
